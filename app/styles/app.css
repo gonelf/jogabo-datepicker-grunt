@@ -1,0 +1,42 @@
+html {
+    background-color: #fff;
+    color: #000;
+    font-family: "Helvetica";
+}
+
+/* left scroll styles */
+
+.leftScroll {
+	border-right: solid 1px #AAA;
+}
+
+/* grid styles */
+
+.grid {
+	border-bottom: solid 1px #AAA;
+}
+
+.selectedDay {
+	background-color: #BADA55;
+	border-radius: 50%; 
+	color: #FFF;
+}
+
+.unselected {
+	background-color: #FFF;
+	color: #AAA;
+}
+
+/* scroll styles */
+
+.selected {
+	background-color: #BADA55;
+	color: #FFF;
+}
+
+/* bottom button */
+
+.bottomButton {
+	color: white;
+	background-color: blue;
+}
